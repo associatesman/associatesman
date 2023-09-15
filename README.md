@@ -1,4 +1,3 @@
 - Hi, I am @associatesman
-- I am a freshman in Bilkent University💀
-- My major is Computer Science
-- I am a retired Informatics Olympian
+- I'm a freshman in Bilkent University💀
+- I'm a retired Informatics Olympian
