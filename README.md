@@ -1,3 +1,3 @@
 - Hi, I am @associatesman
-- I'm a freshman at Bilkent University
+- I'm a CS student at Bilkent University
 - I'm a retired Informatics Olympian
